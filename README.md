@@ -33,7 +33,7 @@ $ pdm version patch
 1.1.1
 $ pdm version micro
 1.1.2
-$ pdm version patch
+$ pdm version minor
 1.2.0
 $ pdm version 5.0.0
 5.0.0
