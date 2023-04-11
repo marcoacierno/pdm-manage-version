@@ -1,6 +1,12 @@
 # pdm-manage-version
 
-Wanted something like `poetry version` in `pdm`
+Wanted something like `poetry version` in `pdm`.
+
+Add the plugin using:
+
+```shell
+pdm plugin add pdm-manage-version
+```
 
 ## Alternatives
 
