@@ -1,0 +1,7 @@
+build/
+.venv/
+.pdm-python
+__pypackages__/
+__pycache__/
+*.pyo
+*.pyc
