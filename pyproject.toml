@@ -7,7 +7,7 @@ dev = [
 
 [project]
 name = "pdm-manage-version"
-version = "0.0.1"
+version = "0.1.0"
 description = "`pdm version` working like `poetry version`"
 authors = [
     {name = "Marco Acierno", email = "marcoaciernoemail@gmail.com"},
